@@ -1,0 +1,8 @@
+#app, table, ul, ol{
+  text-align: center;
+  margin: auto
+}
+#editor{
+  height: 200px;
+  width: 500px;
+}
